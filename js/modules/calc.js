@@ -72,6 +72,7 @@ function calc() {
             });
         });
     }
+    //d
 
     getStaticInformation('#gender div', 'calculating__choose-item_active');
     getStaticInformation('.calculating__choose_big div', 'calculating__choose-item_active');
